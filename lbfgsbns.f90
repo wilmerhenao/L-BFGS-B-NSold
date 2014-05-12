@@ -818,7 +818,11 @@
                qpposrecord(indclose) = j  !qpposrecord keeps a registry of the
                !dimension being analysed in qpspecial
                do i = 1, nfree
-                  matGfree(i,indclose) = matG(index(i), j)
+                  if(matG(index(i), j) .lt. zero) then
+                     matGfree(i,indclose) = max((x(index(i)) - u(index(i))), matG(index(i), j))
+                  else
+                     matGfree(i,indclose) = min((x(index(i)) - l(index(i))), matG(index(i), j))
+                  endif
                enddo
             endif
          enddo
@@ -884,11 +888,12 @@
       
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-      if (info .ne. 0 .or. iback .ge. 50000) then
+      if (info .ne. 0 .or. iback .ge. 10000) then
 !          restore the previous iterate.
          call dcopy(n,t,1,x,1)
          call dcopy(n,r,1,g,1)
          f = fold
+         nfgv = nfgv - iback + 7
          if (col .eq. 0) then
 !     abnormal termination.
             if (info .eq. 0) then

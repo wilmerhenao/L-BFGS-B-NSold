@@ -1,782 +1,308 @@
- final results rosenbrock (new) run:   1.0000000000000000E-003           6          10   2.0000000000000000               20          29   18531.143497015048        5.1157820727400877E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003           6           5   2.0000000000000000               31          40   18531.143497015048        5.6378918938398167E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003           8          10   2.0000000000000000               18          30   27756.353515929062        8.3528127649192799E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003           6          10   2.0000000000000000               27          41   18531.143497015055        2.2184919830018847E-005 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003          10          10   2.0000000000000000               21          31   36981.563534843088        8.2210269128350820E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003           6          20   2.0000000000000000               27          40   18531.143497015051        3.2035396064690024E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003          20          10   2.0000000000000000               16          30   83107.613629413172        1.7737847382240837E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003           8           5   2.0000000000000000               26          39   27756.353515929066        9.9404193526712111E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003          50          10   2.0000000000000000               19          29   221485.76391312343        2.4108219541566081E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003           8          10   2.0000000000000000               32          41   27756.353515929070        8.6422443325611222E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003         100          10   2.0000000000000000               16          30   452116.01438597386        3.3363797611185851E-005 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003           8          20   2.0000000000000000               29          43   27756.353515929066        1.7987593752176680E-005 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003         200          10   2.0000000000000000               18          29   913376.51533167239        2.5780058279319197E-005 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003          10           5   2.0000000000000000               31          41   36981.563534843088        2.5695806710424518E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003        1000          10   2.0000000000000000               17          30   4603460.5228973199        6.9418161828781500E-005 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003          10          10   2.0000000000000000               29          40   36981.563534843081        6.0097271797656716E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
-  Positive dir derivative in projection 
-  Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003           6          10   1.0000000000000000               24         113   274.68415040880120        6.5407220430348273E-008 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
-  Positive dir derivative in projection 
-  Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003           8          10   1.0000000000000000               21         106   371.51559522860447        2.4182586471452296E-009 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003          10          10   1.0000000000000000              700       19005   521.64248068446841        21.057779495049921      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003          20          10   1.0000000000000000               21         188   952.53977905710974        1.9825173502852067E-008 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
-  Positive dir derivative in projection 
-  Using the backtracking step 
-  Positive dir derivative in projection 
-  Using the backtracking step 
-  Positive dir derivative in projection 
-  Using the backtracking step 
-  Positive dir derivative in projection 
-  Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003          50          10   1.0000000000000000               73         621   2405.1053362020953        4.3675060923723898E-008 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003         100          10   1.0000000000000000               16         138   4826.0484159341404        5.5649000907376214E-008 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003         200          10   1.0000000000000000               16         140   9667.9345262903207        7.7200388128479739E-008 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003        1000          10   1.0000000000000000               17         177   48403.023448031359        1.7001469010184122E-007 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003           6          10   1.5000000000000000               14          26   1983.6388363984761        6.4157905738008298E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003           8          10   1.5000000000000000               25          40   2934.9583433618986        7.4318285687323142E-006 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003          10          10   1.5000000000000000               29          42   3886.2778504937673        2.0798996187144459E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003          20          10   1.5000000000000000               25          40   8642.8753861531113        4.4921524837815489E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003          50          10   1.5000000000000000               22          38   22912.667993131156        1.6025326291517668E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003         100          10   1.5000000000000000               25          39   46695.655671427878        5.6786729898877894E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003         200          10   1.5000000000000000               25          39   94261.631028020915        5.3386103294341314E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003        1000          10   1.5000000000000000                9          20   474789.43388084834        9.0855493659503829E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003           6          10   1.1000000000000001               27          67   386.97019196706327        1.4956687576760013E-006 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
-  Positive dir derivative in projection 
-  Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003           8          10   1.1000000000000001               23          51   539.95600570630290        5.1648383462424741E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
-  Positive dir derivative in projection 
-  Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003          10          10   1.1000000000000001               19          45   692.94110593109531        2.4716118535071503E-006 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003          20          10   1.1000000000000001               14          46   1457.8661857837687        2.9886791626916262E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003          50          10   1.1000000000000001               25          69   3752.6415851318015        1.6033968687129988E-007 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003         100          10   1.1000000000000001               21          60   7577.2702314377693        9.0795250094558901E-008 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003         200          10   1.1000000000000001               37         111   15226.521213686392        2.3125689577378929E-005 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003        1000          10   1.1000000000000001               27          69   76420.554116826126        3.2951075882265638E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
-  Positive dir derivative in projection 
-  Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003           6          10   1.0100000000000000               28          76   283.73830330189128        4.4137643693952156E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003           8          10   1.0100000000000000              700      739249   387.00202668283151        9.6654931509032718      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003          10          10   1.0100000000000000               27          71   513.23520397883510        2.4280346622163052E-009 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
-  Positive dir derivative in projection 
-  Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003          20          10   1.0100000000000000              700        1413   995.29439929726072        21.839668856409244      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003          50          10   1.0100000000000000               42         120   2513.8609774589463        1.0602545575361653E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003         100          10   1.0100000000000000               26          73   5048.0840020811738        9.7240027497722849E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003         200          10   1.0100000000000000               30          88   10116.532141021793        3.0240475900770222E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
-  Positive dir derivative in projection 
-  Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003        1000          10   1.0100000000000000               53         167   50664.129328092829        6.1479965324140364E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003           6          10   1.0009999999999999               73         157   275.56483385728359        3.8852383850935559E-006 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003           8          10   1.0009999999999999              700      726379   372.85066332633238        11.629327996859194      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003          10          10   1.0009999999999999               21          63   470.14331923327967        4.3544902757519318E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003          10          20   2.0000000000000000               27          42   36981.563534843088        4.3612745414524584E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003          20          10   1.0009999999999999               18          61   956.55022125760024        7.9354183323322973E-006 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003          20           5   2.0000000000000000               32          38   83107.613629413143        2.5343698671331392E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
-  Positive dir derivative in projection 
-  Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003          50          10   1.0009999999999999               25         132   2415.7585501067856        2.5679406545265642E-005 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003         100          10   1.0009999999999999               35         117   4847.8274426762073        3.1541944621149857E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003         200          10   1.0009999999999999               23         101   9711.9107622250958        2.8115642180894642E-009 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
-  Positive dir derivative in projection 
-  Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003        1000          10   1.0009999999999999               29         115   48624.527429829417        4.2861021531016198E-007 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
-  Positive dir derivative in projection 
-  Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003           6          10   1.0001000000000000              700      742469   277.47598386107779        8.2801376958432762      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
-  Positive dir derivative in projection 
-  Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003           8          10   1.0001000000000000              700      742470   372.27904455550072        9.4105893712088573      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003          10          10   1.0001000000000000               17          49   493.86460344463609        5.5030930923294363E-009 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003          20          10   1.0001000000000000               22          95   952.93931093146591        1.9013249288719468E-005 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003          50          10   1.0001000000000000               22          69   2406.1918398146040        1.5282005014067666E-005 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003         100          10   1.0001000000000000               23          78   4828.2555256056694        1.0886736767996891E-005 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
-  Positive dir derivative in projection 
-  Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003         200          10   1.0001000000000000               17          96   9672.3369566058172        2.8043136241056690E-009 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
-  Positive dir derivative in projection 
-  Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003        1000          10   1.0001000000000000              700        1436   48431.112516360445        163.50700097893304      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
-  Positive dir derivative in projection 
-  Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003           6          10   1.0000100000000001              700      742469   277.21679532667252        8.2360636392320075      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
-  Positive dir derivative in projection 
-  Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003           8          10   1.0000100000000001              700      742470   371.92944466853555        9.3627536371076854      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003          10          10   1.0000100000000001              700      741412   468.36865784323913        10.694586146553432      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003          20          10   1.0000100000000001               14          73   952.58263471273176        1.7968626586650771E-009 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003          50          10   1.0000100000000001               16         138   2405.2117921152067        3.1496598254764593E-008 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003          20          10   2.0000000000000000               30          39   83107.613629413187        2.9977541546934974E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003         100          10   1.0000100000000001               18          85   4826.3018363865813        2.0931313964229327E-005 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003          20          20   2.0000000000000000               29          40   83107.613629413157        1.5907931637471667E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003         200          10   1.0000100000000001               15          80   9668.3730734780092        2.8021416656041949E-009 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003          50           5   2.0000000000000000               30          42   221485.76391312340        4.9457342596135310E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003        1000          10   1.0000100000000001               23          57   48405.258830342274        2.0918725681755834E-006 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003          50          10   2.0000000000000000               31          43   221485.76391312343        4.5146206527208176E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003           6          10  0.98999999999999999              700        1401   355.64173431463087        10.491342359855038      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003           8          10  0.98999999999999999              700        1401   450.53657279391922        9.7166157740431895      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003          10          10  0.98999999999999999              700        1403   533.96763391719458        11.121872974281539      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003          20          10  0.98999999999999999              700        1406   994.52080390032438        16.958873907016429      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003          50          10  0.98999999999999999              700        1409   2393.8230967259983        38.511583450474070      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003         100          10  0.98999999999999999              700        1418   4706.1728936062927        55.217554669871269      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003         200          10  0.98999999999999999              700        1409   9332.0191293559092        62.071988482854735      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003        1000          10  0.98999999999999999              700        1411   46335.631459613884        190.83790979729380      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003           6          10  0.90000000000000002              700        1406   264.87122906875095        15.150131607488133      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003           8          10  0.90000000000000002              700        1403   326.13491157976307        19.966458870950003      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003          10          10  0.90000000000000002              700        1398   387.52559015474526        32.900987568033500      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003          20          10  0.90000000000000002              700        1405   694.05183884116900        73.426624587880326      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003          50          10  0.90000000000000002              700        1406   1613.5093000710069        156.05867161093190      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003         100          10  0.90000000000000002              700        1405   3145.9374933138092        258.55852464885351      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003         200          10  0.90000000000000002              700        1410   6210.7940839075100        1692.3278296462900      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003           6           5   2.0000000000000000               18          29   18531.143497015048        6.0360353743492087E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003          50          20   2.0000000000000000               31          43   221485.76391312346        5.3315614428734283E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003           6          10   2.0000000000000000               20          29   18531.143497015048        5.1157820727400877E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003         100           5   2.0000000000000000               29          41   452116.01438597386        3.5798714950522649E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003           6          20   2.0000000000000000               19          30   18531.143497015051        5.1113569345204992E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003         100          10   2.0000000000000000               32          41   452116.01438597392        2.2790232900055715E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003           8           5   2.0000000000000000               23          30   27756.353515929062        2.7525500898816662E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003         100          20   2.0000000000000000               29          41   452116.01438597398        2.4943287337415106E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003           8          10   2.0000000000000000               18          30   27756.353515929062        8.3528127649192799E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003         200           5   2.0000000000000000               32          41   913376.51533167716        1.1316231311628038E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003           8          20   2.0000000000000000               20          30   27756.353515929070        8.3379529653790092E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003         200          10   2.0000000000000000               32          41   913376.51533167239        3.0192107418002673E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003          10           5   2.0000000000000000               22          31   36981.563534843088        1.2509791491050932E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003         200          20   2.0000000000000000               29          41   913376.51533167076        3.1846409767714661E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003          10          10   2.0000000000000000               21          31   36981.563534843088        8.2210269128350820E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003        1000           5   2.0000000000000000               28          41   4603460.5228972211        2.8793472329227828E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003          10          20   2.0000000000000000               22          31   36981.563534843081        8.2967321662167292E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003        1000          10   2.0000000000000000               33          42   4603460.5228973208        6.2122428101044766E-005 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003          20           5   2.0000000000000000               16          30   83107.613629413172        1.2453843639128557E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003        1000          20   2.0000000000000000               30          42   4603460.5228972221        1.4185303318961265E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003          20          10   2.0000000000000000               16          30   83107.613629413172        1.7737847382240837E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003          20          20   2.0000000000000000               19          30   83107.613629413187        1.7674693296714295E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003          50           5   2.0000000000000000               22          29   221485.76391312343        6.3965820288200696E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003          50          10   2.0000000000000000               19          29   221485.76391312343        2.4108219541566081E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003          50          20   2.0000000000000000               19          30   221485.76391312343        2.5598510866341341E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003         100           5   2.0000000000000000               16          30   452116.01438597386        4.2336541771784066E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003         100          10   2.0000000000000000               16          30   452116.01438597386        3.3363797611185851E-005 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003         100          20   2.0000000000000000               20          29   452116.01438597281        3.7090579907229644E-005 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003         200           5   2.0000000000000000               15          30   913376.51533167728        3.8391950262274587E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003         200          10   2.0000000000000000               18          29   913376.51533167239        2.5780058279319197E-005 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003         200          20   2.0000000000000000               18          29   913376.51533167239        2.8638146464235169E-005 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003        1000           5   2.0000000000000000               15          30   4603460.5228972211        2.4441656737576509E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003        1000          10   2.0000000000000000               17          30   4603460.5228973199        6.9418161828781500E-005 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003        1000          20   2.0000000000000000               15          30   4603460.5228972137        2.8100004528729410E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
-  Positive dir derivative in projection 
-  Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003           6           5   1.0000000000000000              700      731783   274.67849156969135        22.891046576508352      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
   Positive dir derivative in projection 
   Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003           6          10   1.0000000000000000               24         113   274.68415040880120        6.5407220430348273E-008 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
-  Positive dir derivative in projection 
-  Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003           6          20   1.0000000000000000               24         113   274.68415047103997        6.5407219913960261E-008 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003           8           5   1.0000000000000000               14         120   371.51342244634282        1.0996456737788889E-008 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003           6           5   1.0000000000000000             1000     1053493   294.75574837698372        19.722500006136773      STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
   Positive dir derivative in projection 
   Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003           8          10   1.0000000000000000               21         106   371.51559522860447        2.4182586471452296E-009 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003           6          10   1.0000000000000000             1000     1053496   294.92101535451820        19.705733647391238      STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
   Positive dir derivative in projection 
   Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003           8          20   1.0000000000000000               21         106   371.51559522860447        2.4182586471452296E-009 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003          10           5   1.0000000000000000              700       19006   521.99625055882348        21.024152724062969      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003          10          10   1.0000000000000000              700       19005   521.64248068446841        21.057779495049921      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003          10          20   1.0000000000000000              700       19005   521.64248068446841        21.057779495049921      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003          20           5   1.0000000000000000               28         187   952.53953960531931        6.2240133047453128E-009 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003          20          10   1.0000000000000000               21         188   952.53977905710974        1.9825173502852067E-008 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003           6          20   1.0000000000000000             1000     1053496   294.92101535451820        19.705733647391238      STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
   Positive dir derivative in projection 
   Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003          20          20   1.0000000000000000               43         352   952.53950105848628        3.0628943115082245E-008 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003           8           5   1.0000000000000000             1000     1019129   401.25283684062060        20.099468964067626      STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
   Positive dir derivative in projection 
   Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003          50           5   1.0000000000000000               40         240   2405.1054092136242        1.7524905921576415E-008 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003           8          10   1.0000000000000000               45         191   397.57574624960051        3.5211405864692933E-008 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
-  Positive dir derivative in projection 
-  Using the backtracking step 
-  Positive dir derivative in projection 
-  Using the backtracking step 
   Positive dir derivative in projection 
   Using the backtracking step 
-  Positive dir derivative in projection 
-  Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003          50          10   1.0000000000000000               73         621   2405.1053362020953        4.3675060923723898E-008 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003           8          20   1.0000000000000000               44         151   397.57476748831232        5.4351985950172534E-009 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
   Positive dir derivative in projection 
   Using the backtracking step 
+ final results rosenbrock (new) run:   1.0000000000000000E-003          10           5   1.0000000000000000             1000     1004176   500.74740454037982        21.142620032495522      STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
   Positive dir derivative in projection 
   Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003          50          20   1.0000000000000000               47         237   2405.1053367648346        1.8053020410073709E-008 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003         100           5   1.0000000000000000               16         141   4826.0484152264062        5.5649146624148216E-008 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003         100          10   1.0000000000000000               16         138   4826.0484159341404        5.5649000907376214E-008 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003         100          20   1.0000000000000000               16         138   4826.0484159341413        5.5648999741642084E-008 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003         200           5   1.0000000000000000               16         139   9667.9345253112697        7.7200411878626004E-008 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003         200          10   1.0000000000000000               16         140   9667.9345262903207        7.7200388128479739E-008 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003         200          20   1.0000000000000000               15         112   9667.9345180733962        5.1751371898418215E-008 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003        1000           5   1.0000000000000000               23         193   48403.139032347499        5.7238273065365856E-009 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003        1000          10   1.0000000000000000               17         177   48403.023448031359        1.7001469010184122E-007 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003          10          10   1.0000000000000000               54         195   488.08856490109144        4.9951129335331322E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003        1000          20   1.0000000000000000               17         177   48403.023448026252        1.7001567468183991E-007 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003          10          20   1.0000000000000000               93         402   494.41227862634901        2.7749222651927096E-007 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003           6           5   1.5000000000000000               19          32   1983.6388362323307        9.9320487969965549E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003          20           5   1.0000000000000000             1000      947106   1116.0007039053280        16.685429495140532      STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ final results rosenbrock (new) run:   1.0000000000000000E-003          20          10   1.0000000000000000             1000      935354   1115.9914061220270        17.427041593989873      STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ final results rosenbrock (new) run:   1.0000000000000000E-003          20          20   1.0000000000000000             1000      814134   1016.5482212813469        26.745059754678937      STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ final results rosenbrock (new) run:   1.0000000000000000E-003          50           5   1.0000000000000000             1000      910572   2663.4212244385499        30.100708763164242      STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ final results rosenbrock (new) run:   1.0000000000000000E-003          50          10   1.0000000000000000             1000      926710   2663.4055309446721        29.677507422231912      STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ final results rosenbrock (new) run:   1.0000000000000000E-003          50          20   1.0000000000000000             1000      810798   2663.4052352926988        28.370050809834478      STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ final results rosenbrock (new) run:   1.0000000000000000E-003         100           5   1.0000000000000000             1000      644238   5242.4778257812231        40.184883979832840      STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ final results rosenbrock (new) run:   1.0000000000000000E-003         100          10   1.0000000000000000             1000      705413   5242.4663136548124        47.936175031569967      STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ final results rosenbrock (new) run:   1.0000000000000000E-003         100          20   1.0000000000000000             1000      859148   5242.4646978101564        47.137906326156170      STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ final results rosenbrock (new) run:   1.0000000000000000E-003         200           5   1.0000000000000000             1000      757043   10400.620088892108        70.391350719748871      STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ final results rosenbrock (new) run:   1.0000000000000000E-003         200          10   1.0000000000000000             1000      643187   10400.569919851228        69.850837667011035      STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ final results rosenbrock (new) run:   1.0000000000000000E-003         200          20   1.0000000000000000             1000      608828   10400.565845506373        71.284818115897579      STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ final results rosenbrock (new) run:   1.0000000000000000E-003        1000           5   1.0000000000000000             1000      336421   51666.543342134384        120.60622292162191      STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ final results rosenbrock (new) run:   1.0000000000000000E-003        1000          10   1.0000000000000000             1000      597232   51665.478497655189        162.29227858907677      STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ final results rosenbrock (new) run:   1.0000000000000000E-003        1000          20   1.0000000000000000             1000      598108   51665.484684419833        162.75924891545517      STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ final results rosenbrock (new) run:   1.0000000000000000E-003           6           5   1.5000000000000000               32          51   1983.6388362300299        2.3491112198022255E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003           6          10   1.5000000000000000               14          26   1983.6388363984761        6.4157905738008298E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003           6          10   1.5000000000000000               30          41   1983.6388362300297        5.2378111348586227E-005 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003           6          20   1.5000000000000000               14          26   1983.6388363984584        6.4149225459549889E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003           6          20   1.5000000000000000               29          39   1983.6388362300302        4.8520042248729437E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003           8           5   1.5000000000000000               24          36   2934.9583433722132        9.3356021786076757E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003           8           5   1.5000000000000000               45          68   2934.9583433618991        6.6700832501660897E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003           8          10   1.5000000000000000               25          40   2934.9583433618986        7.4318285687323142E-006 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003           8          10   1.5000000000000000               33          45   2934.9583433618986        4.3064546307033534E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003           8          20   1.5000000000000000               21          40   2934.9583433618991        6.9993571187938392E-006 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003           8          20   1.5000000000000000               30          44   2934.9583433618986        2.3211699970017853E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003          10           5   1.5000000000000000               27          40   3886.2778504937742        8.5717084735277614E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003          10           5   1.5000000000000000               31          42   3886.2778504937728        8.2689804514028307E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003          10          10   1.5000000000000000               29          42   3886.2778504937673        2.0798996187144459E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003          10          10   1.5000000000000000               34          40   3886.2778504937783        6.5858691415976488E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003          10          20   1.5000000000000000               27          42   3886.2778504937673        2.1389760866813182E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003          10          20   1.5000000000000000               26          32   3886.2778504938224        8.1625485162720017E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003          20           5   1.5000000000000000               25          48   8642.8753861531113        1.9742377304936796E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003          20           5   1.5000000000000000               70          99   8642.8753861531331        8.0244538188929757E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003          20          10   1.5000000000000000               25          40   8642.8753861531113        4.4921524837815489E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003          20          10   1.5000000000000000               49          58   8642.8753861607620        9.0178487800219383E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003          20          20   1.5000000000000000               23          41   8642.8753861531113        8.8095597121829090E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003          20          20   1.5000000000000000               39          48   8642.8753861531131        2.4300701069396991E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003          50           5   1.5000000000000000               24          43   22912.667993131156        7.0739752685686631E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003          50           5   1.5000000000000000               47          56   22912.667993131159        6.0053162737215104E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003          50          10   1.5000000000000000               22          38   22912.667993131156        1.6025326291517668E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003          50          10   1.5000000000000000               36          44   22912.667993131152        6.7644568298018079E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003          50          20   1.5000000000000000               25          37   22912.667993131137        1.2074933790759994E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003          50          20   1.5000000000000000               37          47   22912.667993131156        8.0734280358510141E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003         100           5   1.5000000000000000               24          39   46695.655671427849        6.1624892190030860E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003         100           5   1.5000000000000000               41          60   46695.655671427892        7.6173296073331874E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003         100          10   1.5000000000000000               25          39   46695.655671427878        5.6786729898877894E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003         100          10   1.5000000000000000               31          37   46695.655671427798        4.8400941225562128E-005 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003         100          20   1.5000000000000000               24          38   46695.655671427834        5.6158814773841516E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003         100          20   1.5000000000000000               32          35   46695.655671427921        9.4046984246036025E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003         200           5   1.5000000000000000               27          40   94261.631028021162        4.5056339431206229E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003         200           5   1.5000000000000000               50          73   94261.631028021249        7.4869977231693200E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003         200          10   1.5000000000000000               25          39   94261.631028020915        5.3386103294341314E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003         200          10   1.5000000000000000               37          42   94261.631028021147        6.8138220758603724E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003         200          20   1.5000000000000000               24          39   94261.631028021162        5.3545670639795556E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003         200          20   1.5000000000000000               35          42   94261.631028021147        5.4569553573705792E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003        1000           5   1.5000000000000000                9          20   474789.43388084817        9.1940122338211709E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003        1000           5   1.5000000000000000               46          64   474789.43388077139        9.7491724706427871E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003        1000          10   1.5000000000000000                9          20   474789.43388084834        9.0855493659503829E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003        1000          10   1.5000000000000000               37          46   474789.43388075934        1.2288588636226208E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003        1000          20   1.5000000000000000                9          20   474789.43388084834        9.0855493659503829E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003        1000          20   1.5000000000000000               41          47   474789.43388077128        6.8035789041544432E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003           6           5   1.1000000000000001               24          65   386.97015712930227        3.6504801867206526E-006 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003           6           5   1.1000000000000001               41          75   409.02521623421683        1.2477645056238734E-007 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003           6          10   1.1000000000000001               27          67   386.97019196706327        1.4956687576760013E-006 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003           6          10   1.1000000000000001               54         100   397.99619332217736        1.2459499336228863E-007 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003           6          20   1.1000000000000001               27          67   386.97017015171059        7.2582587094574313E-007 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003           6          20   1.1000000000000001               62         115   386.97177019993336        6.1650375622069808E-008 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
   Positive dir derivative in projection 
   Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003           8           5   1.1000000000000001               32          78   539.95521822754461        1.9591282924687236E-006 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003           8           5   1.1000000000000001               54         100   550.98114965742684        1.4458332856346724E-005 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
   Positive dir derivative in projection 
   Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003           8          10   1.1000000000000001               23          51   539.95600570630290        5.1648383462424741E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
-  Positive dir derivative in projection 
-  Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003           8          20   1.1000000000000001               25          57   539.95524015871229        4.2407081533281377E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
-  Positive dir derivative in projection 
-  Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003          10           5   1.1000000000000001               21          56   692.94061375963997        5.8665584462952254E-008 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
-  Positive dir derivative in projection 
-  Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003          10          10   1.1000000000000001               19          45   692.94110593109531        2.4716118535071503E-006 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
-  Positive dir derivative in projection 
-  Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003          10          20   1.1000000000000001               19          45   692.94110590038463        2.4743663005954177E-006 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003          20           5   1.1000000000000001               14          46   1457.8661751207972        3.2589479292335287E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003           8          10   1.1000000000000001               43          83   562.00892428202917        2.2838914303330267E-007 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003          20          10   1.1000000000000001               14          46   1457.8661857837687        2.9886791626916262E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003           8          20   1.1000000000000001               66         152   550.98220875838365        8.8591522470032781E-007 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003          20          20   1.1000000000000001               14          46   1457.8661857838003        2.9886681238478944E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003          10           5   1.1000000000000001               65         117   726.01859610655515        2.2806295758117846E-006 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003          50           5   1.1000000000000001               32          89   3752.6414526470280        1.1541771694511240E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003          50          10   1.1000000000000001               25          69   3752.6415851318015        1.6033968687129988E-007 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003          50          20   1.1000000000000001               25          69   3752.6415855820146        2.5907933843904649E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003         100           5   1.1000000000000001               18          55   7577.2794993920943        8.7623275723498691E-005 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003         100          10   1.1000000000000001               21          60   7577.2702314377693        9.0795250094558901E-008 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003         100          20   1.1000000000000001               21          60   7577.2702496763040        9.9025291474849223E-008 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003         200           5   1.1000000000000001               26          75   15226.525226329019        4.2421306401654473E-007 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003         200          10   1.1000000000000001               37         111   15226.521213686392        2.3125689577378929E-005 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003         200          20   1.1000000000000001               38          97   15226.520995055213        2.1487939733882195E-006 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003        1000           5   1.1000000000000001               36          89   76420.545217162377        5.0335202934166323E-005 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003        1000          10   1.1000000000000001               27          69   76420.554116826126        3.2951075882265638E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003        1000          20   1.1000000000000001               38          79   76420.546703806438        1.9671822347275121E-006 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003           6           5   1.0100000000000000               27          59   283.74700355485413        9.9430006641850334E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
   Positive dir derivative in projection 
   Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003           6          10   1.0100000000000000               28          76   283.73830330189128        4.4137643693952156E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003          10          10   1.1000000000000001               72         144   703.96675105321799        1.8859277929454198E-005 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
-  Positive dir derivative in projection 
-  Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003           6          20   1.0100000000000000               29          80   283.73882590843760        1.2242257984160546E-006 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003           8           5   1.0100000000000000              242         502   385.11775071240885        7.8177434208440047E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003           8          10   1.0100000000000000              700      739249   387.00202668283151        9.6654931509032718      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003           8          20   1.0100000000000000               20         102   385.11741781202136        2.5416766999125501E-009 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003          10           5   1.0100000000000000               22          71   513.24083810418597        2.3197648246764402E-009 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003          10          10   1.0100000000000000               27          71   513.23520397883510        2.4280346622163052E-009 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003          10          20   1.0100000000000000               30          84   486.47601965721293        5.6721662813317071E-005 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003          10          20   1.1000000000000001               55         113   726.02004659671036        4.3060819495372811E-005 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003          20           5   1.1000000000000001             1000      906288   1524.0212669481266       0.29447349810369000      STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
   Positive dir derivative in projection 
   Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003          20           5   1.0100000000000000               38         121   993.32068835484051        3.1439931209909259E-007 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003          20          10   1.1000000000000001              176         304   1524.0212669425125        8.5848320739613114E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
-  Positive dir derivative in projection 
-  Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003          20          10   1.0100000000000000              700        1413   995.29439929726072        21.839668856409244      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
-  Positive dir derivative in projection 
-  Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003          20          20   1.0100000000000000              700        1413   1037.6074606706889        18.111663116411208      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
-  Positive dir derivative in projection 
-  Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003          50           5   1.0100000000000000               26          85   2513.8611729454969        3.4451380297651700E-005 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003          20          20   1.1000000000000001              137         290   1546.0731743439610        9.7594863898436447E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003          50          10   1.0100000000000000               42         120   2513.8609774589463        1.0602545575361653E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003          50           5   1.1000000000000001              214         338   3973.1605266495967        3.9447336433930775E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
   Positive dir derivative in projection 
   Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003          50          20   1.0100000000000000               31          87   2513.8551588557193        2.1843323963055493E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003          50          10   1.1000000000000001              163         281   3995.2124340510468        7.2046536821199431E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
   Positive dir derivative in projection 
   Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003         100           5   1.0100000000000000               30          85   5048.0923484553678        3.4107222462011492E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003          50          20   1.1000000000000001              214         405   3984.1864803503213        8.2028472675662223E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003         100          10   1.0100000000000000               26          73   5048.0840020811738        9.7240027497722849E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003         100           5   1.1000000000000001              289         429   8095.4877897307215        5.5770037658110295E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
   Positive dir derivative in projection 
   Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003         100          20   1.0100000000000000               24         110   5048.0850591301514        1.8771450577892566E-005 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003         200           5   1.0100000000000000              700      721025   10218.019672180630        36.388426944862424      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003         200          10   1.0100000000000000               30          88   10116.532141021793        3.0240475900770222E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003         100          10   1.1000000000000001              230         367   8084.4618360299964        7.7891708881842078E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003         200          20   1.0100000000000000               29         123   10116.560388817317        2.9504403431974115E-009 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003         100          20   1.1000000000000001             1000      701117   8073.4358823292714        1.0970800819142580E-003 STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ final results rosenbrock (new) run:   1.0000000000000000E-003         200           5   1.1000000000000001              599         904   16229.882778885698        5.8540434726715306E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003        1000           5   1.0100000000000000              700      716728   50765.605682304740        128.45866398956886      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
+ final results rosenbrock (new) run:   1.0000000000000000E-003         200          10   1.1000000000000001             1000      734306   16273.986593688809        2.2442151731482504E-002 STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
   Positive dir derivative in projection 
   Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003        1000          10   1.0100000000000000               53         167   50664.129328092829        6.1479965324140364E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003         200          20   1.1000000000000001              223         396   16307.064454790745        5.2654224640141952E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
   Positive dir derivative in projection 
   Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003        1000          20   1.0100000000000000               44         139   50664.113671612198        3.2602362594971473E-008 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003           6           5   1.0009999999999999              124         255   275.56538379385813        6.1907985147096172E-005 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003           6          10   1.0009999999999999               73         157   275.56483385728359        3.8852383850935559E-006 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003           6          20   1.0009999999999999               73         157   275.56483407948087        3.8829487307974951E-006 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003           8           5   1.0009999999999999               23          67   372.84666677951572        5.0670213226787226E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003           8          10   1.0009999999999999              700      726379   372.85066332633238        11.629327996859194      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003           8          20   1.0009999999999999               27          85   372.84489873091593        5.7447091536235828E-007 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003          10           5   1.0009999999999999               25          82   470.13066440938434        4.4247491158343655E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003          10          10   1.0009999999999999               21          63   470.14331923327967        4.3544902757519318E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003          10          20   1.0009999999999999               31         111   470.12804099815583        2.6510004711728310E-005 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003          20           5   1.0009999999999999               22          70   956.55202605170973        3.7820436681358622E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003          20          10   1.0009999999999999               18          61   956.55022125760024        7.9354183323322973E-006 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003          20          20   1.0009999999999999               18          58   956.54437656136281        4.8969057477060598E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
-  Positive dir derivative in projection 
-  Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003          50           5   1.0009999999999999               25         119   2415.7595068054948        1.6501549214658554E-005 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003        1000           5   1.1000000000000001             1000      404622   81889.418238263097        2.9803304259506682E-003 STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
   Positive dir derivative in projection 
   Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003          50          10   1.0009999999999999               25         132   2415.7585501067856        2.5679406545265642E-005 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003        1000          10   1.1000000000000001             1000      610826   81900.444191963790        1.7374212666240714E-003 STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
   Positive dir derivative in projection 
   Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003          50          20   1.0009999999999999               24         116   2415.7643315247001        8.6947171194977897E-007 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003        1000          20   1.1000000000000001             1000      652766   81878.392284562360        5.1057829168077240E-003 STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
   Positive dir derivative in projection 
   Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003         100           5   1.0009999999999999               32         118   4847.8027922175716        2.4139160767745779E-005 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003           6           5   1.0100000000000000               32          66   290.43071781688292        1.5309892158813795E-007 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003         100          10   1.0009999999999999               35         117   4847.8274426762073        3.1541944621149857E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003           6          10   1.0100000000000000               53         136   297.11569573055971        7.7173251034123400E-009 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003         100          20   1.0009999999999999               21          70   4847.8284404019359        1.5043774971021663E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003           6          20   1.0100000000000000               51         100   290.42747714858689        1.6334818853515421E-007 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
   Positive dir derivative in projection 
   Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003         200           5   1.0009999999999999               32          85   9711.9749572615256        5.1870910204595091E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003           8           5   1.0100000000000000               56         133   398.48485936455285        5.4563384857132326E-006 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003         200          10   1.0009999999999999               23         101   9711.9107622250958        2.8115642180894642E-009 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
-  Positive dir derivative in projection 
-  Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003         200          20   1.0009999999999999               24          97   9711.9683106380562        9.9023775522961836E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003           8          10   1.0100000000000000               72         170   405.17365900531053        1.7736512688545721E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003        1000           5   1.0009999999999999              700      714577   48721.908449570939        114.23982948256854      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
   Positive dir derivative in projection 
   Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003        1000          10   1.0009999999999999               29         115   48624.527429829417        4.2861021531016198E-007 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003           8          20   1.0100000000000000              167         362   398.48521190434445        1.4077570716237472E-007 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
-  Positive dir derivative in projection 
-  Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003        1000          20   1.0009999999999999               25          76   48624.525258724345        8.9005792535738629E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003          10           5   1.0100000000000000             1000      989014   624.36654067567315        6.3742835509062958      STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ final results rosenbrock (new) run:   1.0000000000000000E-003          10          10   1.0100000000000000              151         311   493.16472954156967        1.1254489926531990E-007 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
-  Positive dir derivative in projection 
-  Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003           6           5   1.0001000000000000              700      742469   276.22975251106288        7.9728103157505137      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
-  Positive dir derivative in projection 
-  Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003           6          10   1.0001000000000000              700      742469   277.47598386107779        8.2801376958432762      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
   Positive dir derivative in projection 
   Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003           6          20   1.0001000000000000              700      742469   277.47598386107779        8.2801376958432762      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003           8           5   1.0001000000000000              700      741413   371.64812901517467        9.2692374958227628      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
-  Positive dir derivative in projection 
-  Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003           8          10   1.0001000000000000              700      742470   372.27904455550072        9.4105893712088573      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
-  Positive dir derivative in projection 
-  Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003           8          20   1.0001000000000000              700      742470   372.27904455550072        9.4105893712088573      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003          10           5   1.0001000000000000               19          52   493.84953876809516        2.5698736472179462E-009 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003          10          10   1.0001000000000000               17          49   493.86460344463609        5.5030930923294363E-009 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003          10          20   1.0001000000000000               17          49   493.86460404076524        5.5030922041510166E-009 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003          10          20   1.0100000000000000               95         198   506.54267658209130        3.9595323395294978E-007 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003          20           5   1.0100000000000000             1000      918165   1164.6113050122365        10.068667968015378      STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ final results rosenbrock (new) run:   1.0000000000000000E-003          20          10   1.0100000000000000             1000      907393   1164.6026536332420        12.505931580181208      STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ final results rosenbrock (new) run:   1.0000000000000000E-003          20          20   1.0100000000000000             1000      768983   1046.8313848759337        15.316352276228336      STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ final results rosenbrock (new) run:   1.0000000000000000E-003          50           5   1.0100000000000000             1000      795564   2785.5072530841680        20.496440231027556      STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ final results rosenbrock (new) run:   1.0000000000000000E-003          50          10   1.0100000000000000             1000      818170   2785.5042398829928        17.885348984209497      STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ final results rosenbrock (new) run:   1.0000000000000000E-003          50          20   1.0100000000000000             1000      858081   2785.4838778239809        23.284528374620944      STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ final results rosenbrock (new) run:   1.0000000000000000E-003         100           5   1.0100000000000000             1000      336853   5486.9786036181358        37.892120199865808      STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
   Positive dir derivative in projection 
   Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003          20           5   1.0001000000000000               23          66   952.94097828861084        1.3629027745150989E-005 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003         100          10   1.0100000000000000             1000      626966   5486.9261948123813        39.815395679244318      STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ final results rosenbrock (new) run:   1.0000000000000000E-003         100          20   1.0100000000000000             1000      810815   5486.9219015604276        36.708086681595397      STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ final results rosenbrock (new) run:   1.0000000000000000E-003         200           5   1.0100000000000000             1000        1854   10889.863717058524        12.693174156284037      STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ final results rosenbrock (new) run:   1.0000000000000000E-003         200          10   1.0100000000000000             1000      385256   10889.836273032146        39.026405663522809      STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ final results rosenbrock (new) run:   1.0000000000000000E-003         200          20   1.0100000000000000             1000      778549   10889.839893792341        55.654803045652535      STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ final results rosenbrock (new) run:   1.0000000000000000E-003        1000           5   1.0100000000000000             1000       40096   54113.861804840657        83.577279541212093      STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ final results rosenbrock (new) run:   1.0000000000000000E-003        1000          10   1.0100000000000000             1000      208333   54112.995022181363        80.518024298298386      STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ final results rosenbrock (new) run:   1.0000000000000000E-003        1000          20   1.0100000000000000             1000      472380   54112.978435593432        78.640183044246001      STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ final results rosenbrock (new) run:   1.0000000000000000E-003           6           5   1.0009999999999999              191         389   281.92368180635259        2.4682780240801136E-008 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003          20          10   1.0001000000000000               22          95   952.93931093146591        1.9013249288719468E-005 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003           6          10   1.0009999999999999             1000        1995   299.61307236559327        6.6843479489883091      STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ final results rosenbrock (new) run:   1.0000000000000000E-003           6          20   1.0009999999999999             1000        1995   299.61307236559327        6.6843479489883091      STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ STOP: TOTAL NUMBER OF ITERATIONS REACHED 1000                                                                           
+ final results rosenbrock (new) run:   1.0000000000000000E-003           8           5   1.0009999999999999              104         260   385.56666030851761        7.0336341049359488E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003          20          20   1.0001000000000000               22          95   952.93946545792778        2.3280582345181240E-005 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003           8          10   1.0009999999999999               78         158   385.56547297637030        5.0874297082660206E-008 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003          50           5   1.0001000000000000               21          58   2406.2099388728061        2.5722429165839249E-007 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003          50          10   1.0001000000000000               22          69   2406.1918398146040        1.5282005014067666E-005 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003          50          20   1.0001000000000000               22          69   2406.1918401887128        1.5282400412587731E-005 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003         100           5   1.0001000000000000              700        1429   4865.2425001846004        49.812427645377426      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003         100          10   1.0001000000000000               23          78   4828.2555256056694        1.0886736767996891E-005 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003         100          20   1.0001000000000000               22          94   4828.2254888785192        6.4357685910097531E-007 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
   Positive dir derivative in projection 
   Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003         200           5   1.0001000000000000              304         635   9672.3828584681669        2.0917250383350968E-005 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003           8          20   1.0009999999999999               69         206   385.56502124490282        8.3808213027788524E-004 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
-  Positive dir derivative in projection 
-  Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003         200          10   1.0001000000000000               17          96   9672.3369566058172        2.8043136241056690E-009 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003          10           5   1.0009999999999999               73         204   489.20662308036123        1.1393483017699123E-006 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
-  Positive dir derivative in projection 
-  Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003         200          20   1.0001000000000000               19          96   9672.3922445339194        2.8025084120475419E-009 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003          10          10   1.0009999999999999              104         271   489.20661819439152        6.9559925875110291E-008 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003        1000           5   1.0001000000000000              700      722130   48522.127113089598        118.50337134471398      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
-  Positive dir derivative in projection 
-  Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003        1000          10   1.0001000000000000              700        1436   48431.112516360445        163.50700097893304      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003        1000          20   1.0001000000000000               24          99   48425.166919577132        2.8121764988273459E-005 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
+ final results rosenbrock (new) run:   1.0000000000000000E-003          10          20   1.0009999999999999               92         242   489.20751122179109        3.8017024857967137E-005 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
  CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
-  Positive dir derivative in projection 
-  Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003           6           5   1.0000100000000001              700      742469   276.03548513098326        7.9439595177698177      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
-  Positive dir derivative in projection 
-  Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003           6          10   1.0000100000000001              700      742469   277.21679532667252        8.2360636392320075      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
-  Positive dir derivative in projection 
-  Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003           6          20   1.0000100000000001              700      742469   277.21679532667252        8.2360636392320075      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003           8           5   1.0000100000000001              700      741413   371.52739380552134        9.2758064074284032      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
-  Positive dir derivative in projection 
-  Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003           8          10   1.0000100000000001              700      742470   371.92944466853555        9.3627536371076854      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
-  Positive dir derivative in projection 
-  Using the backtracking step 
- final results rosenbrock (new) run:   1.0000000000000000E-003           8          20   1.0000100000000001              700      742470   371.92944466853555        9.3627536371076854      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003          10           5   1.0000100000000001              700      741412   468.36864292021778        10.694542662767420      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003          10          10   1.0000100000000001              700      741412   468.36865784323913        10.694586146553432      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003          10          20   1.0000100000000001              700      741412   468.36865784323913        10.694586146553432      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003          20           5   1.0000100000000001               14          74   952.58245660550983        1.7968613263974476E-009 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003          20          10   1.0000100000000001               14          73   952.58263471273176        1.7968626586650771E-009 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003          20          20   1.0000100000000001               14          73   952.58263471267060        1.7968653232003362E-009 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003          50           5   1.0000100000000001               16         138   2405.2117397011393        3.1496685731340141E-008 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003          50          10   1.0000100000000001               16         138   2405.2117921152067        3.1496598254764593E-008 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003          50          20   1.0000100000000001               16         138   2405.2117921152067        3.1496599614504551E-008 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003         100           5   1.0000100000000001               21          95   4826.2741565673978        8.1632699056890476E-006 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003         100          10   1.0000100000000001               18          85   4826.3018363865813        2.0931313964229327E-005 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003         100          20   1.0000100000000001               18          85   4826.3018410220784        2.0932745211942084E-005 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003         200           5   1.0000100000000001               25          92   9668.3753379068730        3.0814486627666529E-006 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003         200          10   1.0000100000000001               15          80   9668.3730734780092        2.8021416656041949E-009 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003         200          20   1.0000100000000001               15          80   9668.3730743133528        2.8021107351812618E-009 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003        1000           5   1.0000100000000001               26          76   48405.239584377137        2.9864801119277019E-006 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003        1000          10   1.0000100000000001               23          57   48405.258830342274        2.0918725681755834E-006 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003        1000          20   1.0000100000000001               23         117   48405.239759940516        6.1949244883274118E-006 CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- CONVERGENCE: ZERO_GRAD_IN_CONV_ HULL                                                                                    
- final results rosenbrock (new) run:   1.0000000000000000E-003           6           5  0.98999999999999999              700        1405   358.60410752936991        8.1698151882509791      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003           6          10  0.98999999999999999              700        1401   355.64173431463087        10.491342359855038      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003           6          20  0.98999999999999999              700        1401   355.64173431463087        10.491342359855038      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003           8           5  0.98999999999999999              700        1407   451.12889270708621        10.236931944443153      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003           8          10  0.98999999999999999              700        1401   450.53657279391922        9.7166157740431895      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003           8          20  0.98999999999999999              700        1401   450.43324031700757        9.7166157589898319      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003          10           5  0.98999999999999999              700        1408   543.06957198876034        11.709209653120217      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003          10          10  0.98999999999999999              700        1403   533.96763391719458        11.121872974281539      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003          10          20  0.98999999999999999              700        1403   533.89074511879971        11.121873199738276      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003          20           5  0.98999999999999999              700        1414   1006.2056339753198        24.191129169140751      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003          20          10  0.98999999999999999              700        1406   994.52080390032438        16.958873907016429      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003          20          20  0.98999999999999999              700        1406   994.48706631641176        16.958873726897778      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003          50           5  0.98999999999999999              700        1410   2393.8429078649770        32.215877267391647      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003          50          10  0.98999999999999999              700        1409   2393.8230967259983        38.511583450474070      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003          50          20  0.98999999999999999              700        1409   2393.6429658109605        37.939143016081523      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003         100           5  0.98999999999999999              700        1417   4706.5690750132135        62.063386811336564      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003         100          10  0.98999999999999999              700        1418   4706.1728936062927        55.217554669871269      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003         100          20  0.98999999999999999              700        1418   4704.0560730382904        54.765913907666068      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003         200           5  0.98999999999999999              700      726364   9332.0205531715692        75.598955964106551      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003         200          10  0.98999999999999999              700        1409   9332.0191293559092        62.071988482854735      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003         200          20  0.98999999999999999              700        1407   9331.6367654635142        78.583877828100427      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003        1000           5  0.98999999999999999              700      726366   46335.631995022268        162.68288576187243      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003        1000          10  0.98999999999999999              700        1411   46335.631459613884        190.83790979729380      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003        1000          20  0.98999999999999999              700        1409   46335.610404485291        182.10301786761573      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003           6           5  0.90000000000000002              700        1412   264.97283876109225        83.737003380457210      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003           6          10  0.90000000000000002              700        1406   264.87122906875095        15.150131607488133      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003           6          20  0.90000000000000002              700        1406   264.85805120962141        15.150105671010468      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003           8           5  0.90000000000000002              700       39770   326.26999022915709       0.56960520040407725      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003           8          10  0.90000000000000002              700        1403   326.13491157976307        19.966458870950003      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003           8          20  0.90000000000000002              700        1404   319.77269165150074        17.541976274796053      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003          10           5  0.90000000000000002              700       39473   387.56712201846113        50.838246125943606      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003          10          10  0.90000000000000002              700        1398   387.52559015474526        32.900987568033500      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003          10          20  0.90000000000000002              700        1402   387.49583492729380        27.439085163019556      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003          20           5  0.90000000000000002              700       39534   694.05276668676004       0.56960517669349719      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003          20          10  0.90000000000000002              700        1405   694.05183884116900        73.426624587880326      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003          20          20  0.90000000000000002              700        1403   693.31579812636949        42.075639022334315      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003          50           5  0.90000000000000002              700       39709   1613.5096637578949        124.52296153941806      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003          50          10  0.90000000000000002              700        1406   1613.5093000710069        156.05867161093190      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003          50          20  0.90000000000000002              700        1402   1612.9028464471726        81.670356804628881      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003         100           5  0.90000000000000002              700       39709   3145.9378051898457        177.92630243799590      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003         100          10  0.90000000000000002              700        1405   3145.9374933138092        258.55852464885351      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003         100          20  0.90000000000000002              700        1407   3145.8480583302003        155.83910652724992      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003         200           5  0.90000000000000002              700       39709   6210.7940850592231        252.90585434303506      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003         200          10  0.90000000000000002              700        1410   6210.7940839075100        1692.3278296462900      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003         200          20  0.90000000000000002              700        1407   6210.7157383756485        232.60338527830456      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003        1000           5  0.90000000000000002              700       40064   30729.644316867860       0.56960515877431306      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003        1000          10  0.90000000000000002              700      728512   30729.644316671165        3799.4186389426095      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- final results rosenbrock (new) run:   1.0000000000000000E-003        1000          20  0.90000000000000002              700        1413   30729.644088610541        869.02987098244148      STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            
- STOP: TOTAL NUMBER OF ITERATIONS REACHED 700                                                                            

@@ -159,7 +159,7 @@ program driver
 !           do 1454 i=1, n
 !              x(i)=3.0d0
 !1454            continue
-     x = 3.0d0
+!     x = 3.0d0
      call timer(time1)
      nfg = 0
      do while( task(1:2).eq.'FG'.or.task.eq.'NEW_X'.or. &
@@ -307,8 +307,8 @@ program driver
      !     If task is neither FG nor NEW_X we terminate execution.
      call timer(time2)
      write (*,*) 'final results rosenbrock (new) run:', taud, n, m, p, isave(30), isave(34), f, dsave(30), task
-     
-     write (6,*) task  
+     write(*,*) 'si es cierto'
+     !write (6,*) task  
      !write (6,*) 'Final X='
      !write (6,'((1x,1p, 6(1x,d11.4)))') (x(i),i = 1,n)
      !write (6,*) 'Final G='
