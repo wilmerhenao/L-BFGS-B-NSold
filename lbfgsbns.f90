@@ -888,7 +888,7 @@
       
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-      if (info .ne. 0 .or. iback .ge. 10000) then
+      if (info .ne. 0 .or. iback .ge. 100) then
 !          restore the previous iterate.
          call dcopy(n,t,1,x,1)
          call dcopy(n,r,1,g,1)
@@ -4454,6 +4454,7 @@
          sty = stp
          fy = fp
          dy = dp
+         brackt = .true.
       else
 !     if second condition is violated not gone far enough
          if (-dp .ge. gtol*(-ginit)) then
@@ -4465,14 +4466,34 @@
 !            task = 'ERROR:  USER SHOULDNT ENTER IN THIS ELSE STATEMENT'
          endif         
       endif   
-      stpf = (sty + stx)/two
+      
+      !Bisection and expansion
+      if (brackt) then
+         !if(nbisect < 30) then
+            stp = (sty + stx)/two
+         !   nbisect = nbisect + 1
+         !else
+         !   task = 'MAXIMUM_LIMIT_OF_LINE_SEARCH_BISECTIONS'
+         !endif
+      else
+         if (two * stp .le. stpmax) then !Remain within boundaries
+            ! Still in expansion mode
+            stp = two * stp
+         else
+            brackt = .true.
+            stp = stpmax
+            sty = stpmax
+            fy = fp
+            dy = dp
+         endif
+      endif
+
+      stp = (sty + stx)/two
       if ((min(stx,sty) .le. stp) .and. stp .le. max(stx,sty)) then
          brackt = .true.
       endif
-      
 !     Compute the new step.
       
-      stp = stpf
       return
       end
       

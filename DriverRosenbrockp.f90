@@ -307,7 +307,6 @@ program driver
      !     If task is neither FG nor NEW_X we terminate execution.
      call timer(time2)
      write (*,*) 'final results rosenbrock (new) run:', taud, n, m, p, isave(30), isave(34), f, dsave(30), task
-     write(*,*) 'si es cierto'
      !write (6,*) task  
      !write (6,*) 'Final X='
      !write (6,'((1x,1p, 6(1x,d11.4)))') (x(i),i = 1,n)
